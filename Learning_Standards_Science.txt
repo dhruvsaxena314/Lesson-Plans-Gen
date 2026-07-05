@@ -1,0 +1,295 @@
+
+  
+  
+LEARNING STANDARDS FRAMEWORK  - ENGLISH 
+Learning Framework - Science [Document subtitle] 
+CENTRAL BOARD OF SECONDARY EDUCATION (CBSE)
+1 
+Foreword 
+The National Education Policy (NEP) 2020 released by the Government of India, has given a clear mandate for competency-based education (CBE) to enhance  acquisition of critical 21st century skills by the learners. The first determinant for implementing CBE is a curriculum which is aligned to defined learning  outcomes and that clearly states the indicators to be achieved.  
+The Central Board of Secondary Education (CBSE) has collaborated with Azim Premji University, Bengaluru, to develop the Learning Framework for Science,  Mathematics, Social Science, English and Hindi for classes 9 and 10. The Learning Frameworks comprise explicitly stated knowledge, skills and dispositions  that an education system should try to achieve. These frameworks would help develop a common shared understanding among teachers, students and other  stakeholders and would serve as a common benchmark for teaching, learning and assessment across the country. These frameworks present indicators that  are aligned to the CBSE curriculum and the NCERT Learning Outcomes. They further outline samples of pedagogical processes and assessment strategies  to encourage curiosity, objectivity, creativity with a view to nurture scientific temper. This framework would be a key resource for the teacher as he/ she  transacts the curriculum. They have been developed to ensure that the teacher aligns the teaching learning to meet the set quality standards and also use it  to track learning levels of students. The effort has been to synchronize focus on quality education with uniformity in quality of standards across CBSE schools.  
+We hope, these frameworks would not only become a reference point for competency-based education across the country but also facilitate planning and  design of teaching-learning processes and assessment strategies by teachers and other stakeholders 
+Team CBSE
+Preface 
+The shift towards competency-based teaching and learning in the National Education Policy 2020 will be an important basis for curricular and pedagogical  transformation in schools. The learning goals defined by the Policy, namely holistic and integrated development of students, and the acquisition of higher  order cognitive capacities such as analysis, critical thinking and problem solving will be enabled by this shift. Such indicators will also enable equitable  educational experiences through ensuring equivalence of pedagogical approaches and learning outcomes across schools and Boards of Examination. 
+In keeping with the thrust on indicator based teaching-learning proposed in the National Education Policy, 2020, Azim Premji University has supported the  Central Board of Secondary Education to develop a 'Learning Framework'. The learning framework is a comprehensive package which provides learning  outcomes, indicators, assessment frameworks, samples of pedagogical processes, tools and techniques for formative assessment, blueprint, assessment  items and rubrics. Five such frameworks have been developed for English, Hindi, Science, Social Science and Mathematics at the secondary stage.  
+This document details the Learning Framework for Science. Learning Science involves various interconnected steps: observation, looking for regularities and  patterns, making hypotheses, devising qualitative or mathematical models, deducing their consequences, verification of theories through observations and  controlled experiments and thus arriving at the principles, theories and laws governing the physical world.  
+The National Education Policy 2020 emphasizes "Evidence-based reasoning and the scientific method will be incorporated throughout the school curriculum  .... in order to encourage rational, analytical, logical, and quantitative thinking in all aspects of the curriculum." As per the Position Paper of the National Focus  Group on Teaching of Science (2005), at the secondary stage, the students should be engaged in learning Science as a composite discipline, in working with  hands and tools to design advanced technological modules, analysis on issues of surrounding environment and health and systematic experimentation to  verify theoretical principles.  
+Science education at this stage should enable students to develop a historical and developmental perspective and to enable students to view Science as a  social enterprise. This document presents outcomes and indicators that focus on these Science specific skills that students need to attain through different  concepts addressed in the syllabus. In addition to this, sample pedagogical processes, formative assessment strategies and summative assessment items are  also provided to enable teachers to derive principles for making the alignment between learning outcomes-pedagogy and assessment in their classrooms. 
+Team Azim Premji University
+Acknowledgement 
+Advisory and Support 
+ Sh. Manoj Ahuja, IAS, we express our gratitude for his guidance in the development of this resource material during his tenure as Chairman, Central Board  of Secondary Education. 
+ Dr. Vineet Joshi, IAS, Chairman, Central Board of Secondary Education 
+Guidance and Support 
+ Dr. Joseph Emmanuel, Director (Academics), Central Board of Secondary Education 
+Planning and Execution 
+ Dr. Sweta Singh, Joint Secretary (Academics), Central Board of Secondary Education 
+ Ms. Aanchal Chomal, Azim Premji University, Bangalore 
+ Dr. Shilpi Banerjee, Azim Premji University, Bangalore 
+Content Development Team 
+ Dr. Sweta Singh, Joint Secretary (Academics), Central Board of Secondary Education 
+ Ms. Chandrika Muralidhar, Faculty, Azim Premji University 
+ Mr. Vikas Chandra Roy, Faculty, Azim Premji University 
+Reviewers 
+ Dr. Arpan Krishna Deb, Teacher in Senior School, Step By Step School, Noida 
+ Ms. Mridula Arora, Vice Principal, Navyug School, New Delhi 
+ Dr. Pratibha Kohli, Principal, Maharaja Agrasen Model School, Pitampura New Delhi 
+ Prof. Radhey Shyam Sharma, Department of Environment Studies, University of Delhi
+Contents 
+1. Introduction 5 2. Process of Developing the Learning Framework Document 5 3. Potential Users/ Uses of the Document 11 4. Nature of Science 11 5. Secondary Stage Specific Curricular Expectations 12 6. Content Domain at the Secondary Stage 13 7. Subject Specific Cognitive Levels 14 8. Learning Outcomes 19 9. Content Domain Specific Learning Outcomes and Indicators 22 10. Sample Pedagogical Processes and Assessment Strategies for Classroom Purposes 92 11. Question Paper Design 98 12. Sample Assessment Items and Marking Scheme 99 13. Reference Documents 122
+1. Introduction 
+Development of quality standards is paramount for any education board, to understand and track the learning level of students in the country. These standards  comprise explicitly stated knowledge, skills, and dispositions that the education system should strive to achieve. The quality standards are expected to serve  as common benchmarks for teaching, learning and assessment. It is hoped that this framework would enable teachers, schools, and other boards to design  teaching-learning processes and develop assessment tools. The Learning Framework is a comprehensive package which delineates indicators, assessment  frameworks, samples of pedagogical processes, tools & techniques for formative assessment purpose, blueprint, and assessment items and rubrics. 
+2. Process of Developing the Learning 
+Framework Document 
+An academically rigorous process has been undertaken to develop this document for various subjects, namely, English, Hindi, Social Sciences, Science and  Mathematics. The flow diagram below depicts the steps in the process of developing the Learning Framework. 
+Describe nature  
+of subject 
+Design sample pedagogical  processes and assessment  strategies 
+Develop question  
+paper design 
+Indicate the NCERT  
+curricular expectations  and learning outcomes 
+Create indicators  
+for every learning  
+outcome 
+Design sample select  
+response and constructed  
+response assessment items 
+Identify subject specific  
+content domains as per  
+CBSE syllabus 
+Define subject specific  
+cognitive levels 
+Develop marking scheme
+5 
+2.1 Describe Nature of Subject 
+The school curriculum as per National Curriculum Framework 2005, is a broad plan for facilitating certain capabilities in learners which are guided by the  larger aims of school education. These aims of school education are an inter-play of various variables - philosophical, psychological, existing socio-cultural  context and the needs of the society, the nature of learning and many more informed by research. etc. Various school subjects enable in pursuing these  aims through their distinct disciplinary focus and methods. This section clearly states the processes followed for constructing knowledge in a subject, and  the tools and methods of enquiry used in each subject. Further, the relevance of engaging with the given subject in school education is highlighted. The  research affirms that an in-depth understanding of the nature of subject would enable a teacher to design quality pedagogy and assessment in alignment to  the subject specific skills.  
+2.2 Indicate the NCERT Curricular Expectations and Learning Outcomes 
+The broad aims of school education stated in NEP 2020 are to- 
+ Develop good human beings capable of rational thought and action, possessing compassion and empathy, courage and resilience, a scientific temper and creative imagination, with sound ethical moorings and values 
+ Build character, and enable learners to be ethical, rational, compassionate and caring 
+ Achieve full human potential - through developing all aspects and capabilities of learners 
+ Develop the creative potential of each individual 
+ Enable learners to learn to think critically and solve problems, and use a multidisciplinary perspective 
+ Enable learners to innovate, adapt and absorb new material in novel and changing fields 
+ Enable children to not only learn, but more importantly learn how to learn  
+ Develop engaged, productive and contributing citizens for building an equitable, inclusive and plural society as envisaged by our Constitution 
+ Achieve economic and social mobility, inclusion and equality by ensuring all students can access quality education, with particular focus on historically  marginalised, disadvantaged, and underrepresented groups 
+ Prepare a workforce with multidisciplinary abilities across the sciences, social sciences, arts and humanities through experiential, holistic, integrated,  inquiry-driven, discovery-oriented, learner-centred, discussion-based, flexible and enjoyable education 
+The curricular expectations related to different age-groups are spelt out stage-wise for various levels- primary, upper primary, secondary and senior secondary.  These are stated at a broader level and pitched at an appropriate level of students understanding. In this document, curricular expectations as defined in 
+6 
+NCERT secondary stage learning outcomes document are referred. These curricular expectations form the basis for organising the age-appropriate content  based on learners' prior knowledge. Curricular expectations for a subject are ascertained through a range and variety of specific learning outcomes defined  for each class. The NCERT learning outcomes at the secondary stage are the primary point of reference for this document. Learning outcomes provide a  benchmark on which learning progress can be tracked in both quantitative and qualitative manner. The NCERT learning outcomes linked with curricular  expectations are indicator based and help to determine the pedagogical processes for their development. The indicator based learning encourages students  to not only acquire knowledge but also apply knowledge and skills to successfully perform tasks in real life situations.  
+2.3 Identify Subject Specific Content Domains as per CBSE Syllabus 
+The learning outcomes for each subject are expressed in terms of cognitive skill to be demonstrated and the content to be acquired by the learners. In  accordance with the nature of the subject, the CBSE curricula aligns content domains to various textbook chapters for every subject. To help teachers see the  connection between syllabus, textbook and learning outcomes, relevant NCERT learning outcomes are mapped to each of these content domains/ themes.  
+2.4 Define Subject Specific Cognitive Levels 
+Cognitive levels describe the thinking processes that students are expected to engage in when encountering the indicators. Revised Bloom's taxonomy provides  a useful frame of reference to classify the learning outcomes. It also helps in aligning the classroom pedagogy and assessment practices with the learning  outcomes. In this document, an attempt is made to define the subject specific cognitive levels that essentially draw from Revised Bloom's Taxonomy. Such  subject specific cognitive levels are able to capture the disciplinary knowledge and skills in a concrete manner. Assessment frameworks developed by Trends  in International Mathematics and Science Study (TIMSS) and Programme for International Student Assessment (PISA) are referred to while conceptualising  these subject specific cognitive levels.
+7 
+Aims of school education 
+Stage wise curricular expectations 
+Class wise learning outcomes 
+Subject specific cognitive levels Subject specific content domains
+9.1 Class IX
+Content Domain, Chapter,  Key Concepts
+Learning Outcomes - NCERT 
+Content Domain Specific  
+Learning Outcomes
+Indicators
+Materials 
+Chapter 1 - Matter in  
+our surroundings 
+Key concepts 
+Physical nature of matter;  characteristics of particles  of matter; states of  
+matter - solid, liquid and  
+gaseous; changes in states  of matter; sublimation;  
+boiling; evaporation -  
+factors influencing the  
+process
+LO1: Differentiates materials/ objects/ organisms/  phenomena/ processes, based on properties/  characteristics, such as prokaryote and  
+eukaryote, plant cell and animal cell, diffusion  and osmosis, simple and complex tissues,  
+distance and displacement, speed and velocity,  
+balanced and unbalanced forces, element,  
+compound and mixture, solution, suspension  
+and colloid, isobars and isotopes, etc.
+CLO1: Differentiates the three  states of matter - solid,  
+liquid and gas.
+C1: Defines matter as solid, liquid and gas using their  characteristics. 
+C2: Differentiates between latent heat of vaporisation and  the latent heat of fusion. 
+C3: Differentiates between sublimation and evaporation. C4: Differentiates between the three states of matter  based on shape, intermolecular spaces, continuous  movement of particles. 
+C5: Emphasises the contrast between the three states of  matter using specific examples. 
+C6: Differentiates between plasma and Bose-Einstein  Condensate.
+
+LO5: Explains processes and phenomena, such  as function of different organelles, spread of  diseases and their prevention, effect of force  on the state of motion of objects, action and  reaction, revolution of planets and satellites,  conservation laws, principle of separation  
+of different gases from air, melting/ boiling/  
+freezing, how bats use ultrasound to catch  
+prey, etc.
+CLO2: Describes the various  
+processes bringing change  
+in the state of matter  
+like evaporation, boiling,  
+melting, sublimation,  
+condensation. 
+CLO3: Explains the effect of  
+change of temperature  
+and pressure on states of  
+matter.
+C7: Explains the difference between evaporation  and boiling 
+C8: Describes the process of sublimation and evaporation. C9: Explains the effect of temperature change on melting,  freezing, evaporation, condensation and sublimation.
+
+LO12: Applies scientific concepts in daily life and  
+solving problems, such as separation of  
+mixtures, uses safety belts in automobiles,  
+covers walls of large rooms with sound  
+absorbent materials, follows intercropping and  
+crop rotation, takes preventive measures to  
+control disease causing agents, etc.
+CLO4: Applies the concept of  
+evaporation seen in day 
+to- day life.
+C10: Relates to processes like drying of clothes,  cooling of surfaces to the process of  
+evaporation.
+
+
+LO10: Measures physical quantities using  
+appropriate apparatus, instruments, and  
+devices, such as, weight and mass of an object  
+using spring balance, mass using a physical  
+balance, time- period of a simple pendulum,  
+volume of liquid using measuring cylinder,  
+temperature using thermometer, etc.
+CLO5: Measures the melting  
+point and boiling point  
+of a substance using a  
+thermometer.
+C11: Explains the meaning of melting and boiling  point.  
+C12: Explains the use of apparatus like a  
+thermometer for measuring the melting and  
+boiling points of substances. 
+C13: Measures melting and boiling point using  
+thermometer. 
+Materials 
+Chapter 2 - Is matter  
+around us pure?  
+Key concepts 
+Mixtures - types of  
+mixtures, homogeneous/ heterogeneous; solution  - properties of a solution,  
+concentration of a  
+solution; suspension and  
+its properties; colloidal  
+solution and its properties;  
+separation of a mixture  - using evaporation,  
+centrifugation, a separating  
+funnel (for immiscible  
+liquids), sublimation,  
+chromatography,  
+distillation (for miscible  
+liquids), fractional  
+distillation, crystallisation;  
+purification of water;  
+physical and chemical  
+changes; pure substances -  
+elements and compounds
+LO1: Differentiates materials/ objects/ organisms/  phenomena/ processes, based on properties/  characteristics, such as prokaryote and  
+eukaryote, plant cell and animal cell, diffusion  and osmosis, simple and complex tissues,  
+distance and displacement, speed and velocity,  
+balanced and unbalanced forces, element,  
+compound and mixture, solution, suspension  
+and colloid, isobars and isotopes, etc.
+CLO6: Differentiates between  
+mixtures and pure  
+substances; homogenous  
+and heterogeneous  
+mixtures; true solutions,  
+colloids and suspensions;  
+mixtures and compounds.
+C14: Distinguishes between mixtures and  
+compounds based on appearance, behaviour  
+towards magnets and effect of heat.  
+C15: Differentiates mixtures as homogeneous and  
+heterogeneous based on their properties. 
+C16: Identifies various examples of true solutions,  
+colloids and suspensions from day-to-day life 
+and differentiates between them. 
+C17: Describes substances as elements, compounds, and  
+mixtures.   
+
+
+LO5: Explains processes and phenomena, such  
+as function of different organelles, spread of  
+diseases and their prevention, effect of force  
+on the state of motion of objects, action and  
+reaction, revolution of planets and satellites,  
+conservation laws, principle of separation  
+of different gases from air, melting/ boiling/  
+freezing, how bats use ultrasound to catch prey,  
+etc
+CLO7: Investigates the nature and  
+properties of various types  
+of chemical substances  
+through experiments.
+C19: Investigates the types and properties of  
+mixtures, solutions, colloids, and suspensions  
+using simple experiments. 
+C20: Plans tasks on how to prepare suspensions of  
+soil, chalk powder and fine sand in water. 
+C21: Plans tasks on how to prepare colloidal  
+solutions of starch in water and egg albumin  
+or milk in water.
+
+LO5: Explains processes and phenomena, such  
+as function of different organelles, spread of  
+diseases and their prevention, effect of force  
+on the state of motion of objects, action and  
+reaction, rotation and revolution of planets  
+and satellites, conservation laws, principle of  
+separation of different gases from air, melting/ 
+boiling/ freezing, how bats use ultrasound to catch  
+prey, etc
+CLO8: Describes different  
+methods of separation to  
+get individual components  
+from a mixture. 
+CLO9: Explains saturated and  
+unsaturated solutions and  
+finds concentration of the  
+given solutions.
+C22: Explains the separation of sand and water  
+using filtration.  
+C23: Explains the process of centrifugation and  
+use of separating funnel to separate  
+immiscible liquids. 
+C24: Describes the method of distillation and  
+fractional distillation for separation of  
+miscible liquids and components of air. 
+C25: Explains the separation of the mixture  
+of ammonium chloride and sand using  
+sublimation.  
+C26: Describes the process of chromatography for  
+separating components of ink.  
+C27: Explains the method of separating the  
+components of a mixture of sand, common  
+salt and ammonium chloride (or camphor).
+
+LO16: Applies scientific concepts in daily life and  
+solving problems, such as separation of  
+mixtures, uses safety belts in automobiles,  
+covers walls of large rooms with sound  
+absorbent material, follows intercropping and  
+crop rotation, takes preventive measures to  
+control disease causing agents, etc.
+CLO10: Relates the importance  
+of methods of  
+separation in day- to-day  
+life applications.
+C28: Draws connect with the use of distillation and  
+fractional distillation to the desalination of water for  
+drinking and irrigation.  
+C29: Explains the fractional distillation of crude oil. C30: Relates to the relevance of fractional distillation to  
+everyday life. 
+C31: Supports and agrees to the importance of  
+choosing the right separation technique for  
+obtaining the pure substance from a mixture  
+in day-to-day life.
+
+
+*** End Patch
